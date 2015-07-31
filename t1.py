@@ -1,5 +1,6 @@
 #coding=utf-8
 __author__ = 'Administrator'
+'''test  '''
 import re
 try:
     with open('/etc/hosts','r') as f:
