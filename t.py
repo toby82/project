@@ -1,5 +1,6 @@
 #coding=utf-8
 __author__ = 'Administrator'
+'''######################## '''
 try:
     with open('/etc/hosts','r') as f:
         for line in f.readlines():
